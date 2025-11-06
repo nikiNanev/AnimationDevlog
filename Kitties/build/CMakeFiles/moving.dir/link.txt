@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/moving.dir/src/main.c.o -o moving  -Wl,-rpath,/usr/local/lib /usr/local/lib/libSDL3_image.so.0.3.0 /usr/local/lib/libSDL3.so.0.3.0

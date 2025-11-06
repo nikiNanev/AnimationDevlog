@@ -1,0 +1,3 @@
+/home/aceraspire5/Dev/Projects/C_SDL3_Experimenting/moving_texture/build/CMakeFiles/moving.dir
+/home/aceraspire5/Dev/Projects/C_SDL3_Experimenting/moving_texture/build/CMakeFiles/edit_cache.dir
+/home/aceraspire5/Dev/Projects/C_SDL3_Experimenting/moving_texture/build/CMakeFiles/rebuild_cache.dir
